@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\baseusuariosampliada.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:baseusuariosampliada.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formlistadocuotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formlistadocuotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\entidades\\cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:entidades\\cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formlistadocuotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formlistadocuotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formagregarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formagregarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formopciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formopciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\inscribiractividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:inscribiractividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formactualizarmonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formactualizarmonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formactualizarmonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formactualizarmonto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formagregarnosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formagregarnosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\entidades\\nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:entidades\\nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formagregarnosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formagregarnosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\entidades\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:entidades\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\inscribiractividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:inscribiractividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.29960.rartemp\\Actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.22266.rartemp\\FormAgregarNoSocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formactividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.11130.rartemp\\FormActividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.10310.rartemp\\FormActividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formmodificarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formmodificarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formmodificarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formmodificarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formlistadocuotas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formlistadocuotas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formmodificarsocios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formmodificarsocios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formagregarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formagregarsocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\formnosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formnosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formnosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formnosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formactividades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formactividades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|c:\\users\\nicow\\downloads\\versionfinalclubdeportivo\\formopciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E170D-24CA-49DA-9EA1-5443213AB370}|ClubDeportivoG3.csproj|solutionrelative:formopciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuota.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Cuota.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cuota.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Cuota.cs",
+              "RelativeToolTip": "Entidades\\Cuota.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA4wCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:23:23.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormOpciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormOpciones.cs",
+              "RelativeDocumentMoniker": "FormOpciones.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\FinalClubDeportivo\\FormOpciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\FinalClubDeportivo\\FormOpciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:18:05.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAgregarSocios.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarSocios.cs",
+              "RelativeDocumentMoniker": "FormAgregarSocios.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarSocios.cs",
+              "RelativeToolTip": "FormAgregarSocios.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:28:24.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormBD.cs",
+              "RelativeDocumentMoniker": "FormBD.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\FinalClubDeportivo\\FormBD.cs [Design]",
+              "RelativeToolTip": "..\\FinalClubDeportivo\\FormBD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:25:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAgregarNoSocio.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarNoSocio.cs",
+              "RelativeDocumentMoniker": "FormAgregarNoSocio.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarNoSocio.cs",
+              "RelativeToolTip": "FormAgregarNoSocio.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAQwJIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:44:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InscribirActividad.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\InscribirActividad.cs",
+              "RelativeDocumentMoniker": "InscribirActividad.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\InscribirActividad.cs",
+              "RelativeToolTip": "InscribirActividad.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:41:38.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSocios.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormSocios.cs",
+              "RelativeDocumentMoniker": "FormSocios.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormSocios.cs",
+              "RelativeToolTip": "FormSocios.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:22:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseUsuariosAmpliada.sql",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\BaseUsuariosAmpliada.sql",
+              "RelativeDocumentMoniker": "BaseUsuariosAmpliada.sql",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\BaseUsuariosAmpliada.sql",
+              "RelativeToolTip": "BaseUsuariosAmpliada.sql",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAqwLUBAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T22:00:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormListadoCuotas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.cs",
+              "RelativeDocumentMoniker": "FormListadoCuotas.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormListadoCuotas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:31:04.668Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormActualizarMonto.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActualizarMonto.cs",
+              "RelativeDocumentMoniker": "FormActualizarMonto.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActualizarMonto.cs",
+              "RelativeToolTip": "FormActualizarMonto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:56:25.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormListadoCuotas.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.cs",
+              "RelativeDocumentMoniker": "FormListadoCuotas.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.cs",
+              "RelativeToolTip": "FormListadoCuotas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:23:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBD.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormBD.cs",
+              "RelativeDocumentMoniker": "FormBD.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormBD.cs",
+              "RelativeToolTip": "FormBD.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:25:21.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:48:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCarnet.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormCarnet.cs",
+              "RelativeDocumentMoniker": "FormCarnet.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\FinalClubDeportivo\\FormCarnet.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\FinalClubDeportivo\\FormCarnet.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:33:44.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormActualizarMonto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActualizarMonto.cs",
+              "RelativeDocumentMoniker": "FormActualizarMonto.cs",
+              "ToolTip": "H:\\Manu\\Desarrollo de Software\\Sistemas orientados a objetos\\FinalClubDeportivo\\FormActualizarMonto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:53:57.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormCarnet.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormCarnet.cs",
+              "RelativeDocumentMoniker": "FormCarnet.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormCarnet.cs",
+              "RelativeToolTip": "FormCarnet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:26:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Actividad.cs",
+              "RelativeDocumentMoniker": "Entidades\\Actividad.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Actividad.cs",
+              "RelativeToolTip": "Entidades\\Actividad.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAACQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:45:26.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormAgregarNoSocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarNoSocio.cs",
+              "RelativeDocumentMoniker": "FormAgregarNoSocio.cs",
+              "ToolTip": "C:\\Users\\juand\\OneDrive\\Escritorio\\FINAL FINAL FINAL\\Nueva carpeta\\FinalClubDeportivo\\FormAgregarNoSocio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\juand\\OneDrive\\Escritorio\\FINAL FINAL FINAL\\Nueva carpeta\\FinalClubDeportivo\\FormAgregarNoSocio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:47:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoSocio.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\NoSocio.cs",
+              "RelativeDocumentMoniker": "Entidades\\NoSocio.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\NoSocio.cs",
+              "RelativeToolTip": "Entidades\\NoSocio.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwFoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:22:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InscribirActividad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\InscribirActividad.cs",
+              "RelativeDocumentMoniker": "InscribirActividad.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\FinalClubDeportivo\\InscribirActividad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\FinalClubDeportivo\\InscribirActividad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:03:21.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAgregarNoSocio.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.22266.rartemp\\FormAgregarNoSocio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.22266.rartemp\\FormAgregarNoSocio.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.22266.rartemp\\FormAgregarNoSocio.cs",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.22266.rartemp\\FormAgregarNoSocio.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAADwv9YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:15:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.29960.rartemp\\Actividad.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.29960.rartemp\\Actividad.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.29960.rartemp\\Actividad.cs",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.29960.rartemp\\Actividad.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv7oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:16:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormActividades.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.11130.rartemp\\FormActividades.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.11130.rartemp\\FormActividades.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.11130.rartemp\\FormActividades.cs",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.11130.rartemp\\FormActividades.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADwv8wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:13:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormActividades.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.10310.rartemp\\FormActividades.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.10310.rartemp\\FormActividades.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.10310.rartemp\\FormActividades.cs",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\Rar$DIa13784.10310.rartemp\\FormActividades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:13:13.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormActividades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActividades.cs",
+              "RelativeDocumentMoniker": "FormActividades.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormActividades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormActividades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:59:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormActividades.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActividades.cs",
+              "RelativeDocumentMoniker": "FormActividades.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActividades.cs",
+              "RelativeToolTip": "FormActividades.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:10:54.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormModificarSocios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormModificarSocios.cs",
+              "RelativeDocumentMoniker": "FormModificarSocios.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormModificarSocios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormModificarSocios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:55:09.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormModificarSocios.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormModificarSocios.cs",
+              "RelativeDocumentMoniker": "FormModificarSocios.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormModificarSocios.cs",
+              "RelativeToolTip": "FormModificarSocios.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:28:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormCarnet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormCarnet.Designer.cs",
+              "RelativeDocumentMoniker": "FormCarnet.Designer.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormCarnet.Designer.cs",
+              "RelativeToolTip": "FormCarnet.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:30:45.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormListadoCuotas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.Designer.cs",
+              "RelativeDocumentMoniker": "FormListadoCuotas.Designer.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormListadoCuotas.Designer.cs",
+              "RelativeToolTip": "FormListadoCuotas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:31:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormModificarSocios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormModificarSocios.Designer.cs",
+              "RelativeDocumentMoniker": "FormModificarSocios.Designer.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormModificarSocios.Designer.cs",
+              "RelativeToolTip": "FormModificarSocios.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:31:10.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NativeDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs [Solo lectura]",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAQwKYAAAAbAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:00:22.303Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormSocios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormSocios.cs",
+              "RelativeDocumentMoniker": "FormSocios.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\FinalClubDeportivo\\FormSocios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\FinalClubDeportivo\\FormSocios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:41:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormNoSocios.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormNoSocios.cs",
+              "RelativeDocumentMoniker": "FormNoSocios.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormNoSocios.cs",
+              "RelativeToolTip": "FormNoSocios.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:13:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormOpciones.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormOpciones.cs",
+              "RelativeDocumentMoniker": "FormOpciones.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormOpciones.cs",
+              "RelativeToolTip": "FormOpciones.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:18:10.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Cliente.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:24:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:26:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormActividades.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActividades.Designer.cs",
+              "RelativeDocumentMoniker": "FormActividades.Designer.cs",
+              "ToolTip": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormActividades.Designer.cs",
+              "RelativeToolTip": "FormActividades.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:24:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:48:19.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormNoSocios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormNoSocios.cs",
+              "RelativeDocumentMoniker": "FormNoSocios.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormNoSocios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormNoSocios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:33:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormAgregarSocios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicow\\Downloads\\VersionFinalClubDeportivo\\FormAgregarSocios.cs",
+              "RelativeDocumentMoniker": "FormAgregarSocios.cs",
+              "ToolTip": "C:\\Users\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormAgregarSocios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Rocio Gomez\\Documents\\Visual Studio 2022\\FinalClubDeportivo\\FormAgregarSocios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:10:47.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
